@@ -1,0 +1,5 @@
+mode: set
+backend/internal/hello/handlers.go:15.71,19.2 2 0
+backend/internal/hello/handlers.go:21.56,23.2 1 1
+backend/internal/hello/handlers.go:25.45,29.2 3 1
+backend/internal/hello/routes.go:5.42,7.2 1 0
